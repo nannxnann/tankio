@@ -1,2 +1,2 @@
 # tankio
-An io game of tank war.
+a socket.io game

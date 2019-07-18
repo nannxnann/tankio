@@ -1,0 +1,25 @@
+{
+  "name": "tankio",
+  "version": "1.0.1",
+  "description": "a socket.io game",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^2.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "nothin",
+    "start": "node server.js"
+  },
+  "author": "nann wu",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codeNoobNann/tankio.git"
+  },
+  "bugs": {
+    "url": "https://github.com/codeNoobNann/tankio/issues"
+  },
+  "homepage": "https://github.com/codeNoobNann/tankio#readme"
+}
